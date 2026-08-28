@@ -1,0 +1,6 @@
+{
+  "name": "Salud desde el Alma",
+  "description": "Acompañamiento psicológico y bienestar integral - Plataforma de gestión de agenda, pacientes y pagos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
